@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1590954461 source:d:\robotbook\chapter14\ejemplorobotsoldador\6dofinversekinematics\main.cpp
+	<windows.h>
+	<iomanip>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
+1549505458 d:\robotbook\chapter14\ejemplorobotsoldador\6dofinversekinematics\include\claseopengl.h
+	<gl/gl.h>
+	<GL/GLU.h>
+	"Robot.h"
+	"modelo3D.h"
+
+1590954141 d:\robotbook\chapter14\ejemplorobotsoldador\6dofinversekinematics\include\robot.h
+	"modelo3D.h"
+	<vector>
+	<cstdlib>
+
+1549253012 d:\robotbook\chapter14\ejemplorobotsoldador\6dofinversekinematics\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+	<fstream>
+	<iostream>
+	<gl/gl.h>
+	<GL/GLU.h>
+	<string>
+
+1511199740 d:\robotbook\chapter14\ejemplorobotsoldador\6dofinversekinematics\include\triangle3d.h
+	"vector3d.h"
+
+1511199740 d:\robotbook\chapter14\ejemplorobotsoldador\6dofinversekinematics\include\vector3d.h
+	<math.h>
+
+1553667224 d:\robotbook\chapter14\ejemplorobotsoldador\6dofinversekinematics\include\matrix.h
+	"vector3d.h"
+	<iostream>
+
+1553671707 source:d:\robotbook\chapter14\ejemplorobotsoldador\6dofinversekinematics\src\matrix.cpp
+	"Matrix.h"
+
+1549252980 source:d:\robotbook\chapter14\ejemplorobotsoldador\6dofinversekinematics\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+	<stdint.h>
+
+1511199740 source:d:\robotbook\chapter14\ejemplorobotsoldador\6dofinversekinematics\src\triangle3d.cpp
+	"Triangle3D.h"
+
+1511199740 source:d:\robotbook\chapter14\ejemplorobotsoldador\6dofinversekinematics\src\vector3d.cpp
+	"vector3d.h"
+	<iostream>
+
+1549260324 source:d:\robotbook\chapter14\ejemplorobotsoldador\6dofinversekinematics\src\vectornd.cpp
+	"vectornd.h"
+	<iostream>
+
+1549260006 d:\robotbook\chapter14\ejemplorobotsoldador\6dofinversekinematics\include\vectornd.h
+	<math.h>
+
+1590954564 source:d:\robotbook\chapter14\ejemplorobotsoldador\6dofinversekinematics\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
